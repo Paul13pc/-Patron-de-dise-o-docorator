@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Escritorio\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Users\HP\OneDrive\Escritorio\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Users\HP\OneDrive\Escritorio\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Users\HP\OneDrive\Escritorio\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Decorator\obj\Debug\net7.0\ref\Decorator.dll
